@@ -3,3 +3,6 @@ langchain-community>=0.3.0
 langchain-core>=0.3.0
 langchain-mistralai>=0.2.0
 python-dotenv>=1.0.0
+requests>=2.31.0
+rich>=13.0.0
+tavily-python>=0.5.0
